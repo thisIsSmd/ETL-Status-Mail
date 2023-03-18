@@ -14,3 +14,7 @@ Parameter Info
 Test Scripts
 
 EXEC [dbo].[MailETLStatus] 'SQL_Email_Profile', '', ''
+
+
+Server Type: Azure SQL Managed Instance
+Database type: Data warehouse
